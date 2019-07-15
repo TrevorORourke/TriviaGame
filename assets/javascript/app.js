@@ -18,7 +18,7 @@ $(document).ready(function () {
                 id: 'question-three',
                 answer: 3
             }, {
-                question: 'What is the most dangerous Mountain in the world?',
+                question: 'What is the most dangerous mountain in the world?',
                 possibles: ['K2', 'Annapurna', 'Mt Everest', 'Matterhorn'],
                 id: 'question-four',
                 answer: 1
