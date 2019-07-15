@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+}
+.wallpaper { 
+	background-image: url("../images/wallpaper.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.center {
+        position:fixed;
+        padding:0;
+        left:50%;
+        bottom: 50%;
+        margin-left:-45%;
+        margin-top:5%;
+        margin-bottom: -35%;
+        width: 90%;
+        height: 90%;
+        background:rgba(255,255,255,0.5);
+        text-align: center;
+        Font: bold;
+        font-family: 'DM Serif Display', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+
+ .questions  {
+
+    font-size: 23px;
+    font: bold;
+    letter-spacing: 2px;
+    line-height: 2;
+    font-family: 'DM Serif Display', 'Helvetica Neue', Helvetica, sans-serif;
+
+ }  
+
